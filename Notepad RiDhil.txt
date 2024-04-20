@@ -1,0 +1,20 @@
+
+Judul		: “APLIKASI MONITORING KESEHATAN PEGAWAI PADA MASA PANDEMI COVID-19 BERBASIS WEB DI PT PELABUHAN INDONESIA II (PERSERO) CABANG PALEMBANG"
+
+
+Alasan memilih judul :	
+Karena pendataan kesehatan pegawai PT. Pelabuhan Indonesia II (Persero) Cabang Palembang masih di lakukan secara manual, pegawai biasanya mengajukan izin sakit dengan mengirimkan 
+surat keterangan sakit berupa berkas atau hard file ke perusahaan sehingga mempersulit proses pendataan seperti rentan terjadinya penumpukan atau hilangnya berkas, dan juga dapat 
+menyebabkan penyebaran Covid-19 di masa pandemi seperti saat ini apabila pegawai yang sakit harus ke kantor untuk mengumpulkan berkas tersebut, oleh karena itu salah satu alternatif 
+untuk memecahkan masalah tersebut yaitu dengan memanfaatkan website sebagai media yang mempermudah proses pendataan kesehatan pegawai PT. Pelabuhan Indonesia II (Persero) Cabang 
+Palembang agar lebih efisien. 
+
+
+Login Admin	
+Username	: ridhil
+Password	: 123456
+
+
+Login Pegawai	
+Username	: yaya
+Password	: 123

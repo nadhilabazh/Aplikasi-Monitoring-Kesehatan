@@ -1,0 +1,21 @@
+table.tablesorter {
+	font-family:arial;
+	font-size: 8pt;
+	width: 100%;
+	text-align: left;
+ 	border-collapse: collapse;border:1px solid #222;
+}
+table.tablesorter thead tr th {
+	background-color: #e6EEEE;
+	font-size: 8pt;
+	padding: 4px;
+ 	border-collapse: collapse;border:1px solid  #DDD;
+
+}
+
+table.tablesorter tbody td {
+	color: #3D3D3D;
+	padding: 4px;
+ 	vertical-align: top;
+ 	border-collapse: collapse;border:1px solid #F5F5F5;
+}

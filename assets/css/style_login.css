@@ -1,0 +1,64 @@
+@charset "utf-8";
+
+.container-body {
+  width: 550px;
+  margin: auto;
+  background-color: #ffffff;
+  box-shadow: inset 0 0 5px #e0e0e0;
+  border-radius: 10px;
+}
+
+body {
+  background: url(../images/backgrounds/cb.png) no-repeat center;
+  font: 16px arial;
+  display: flex;
+  min-height: 90vh;
+  align-items: center;
+  justify-content: center;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  padding: 20px;
+}
+
+.img-logo {
+  text-align: center;
+  margin: 15px 0 15px 0;
+}
+
+img.logo {
+  width: 200px;
+}
+
+p {
+  font: 12px;
+  text-align: center;
+}
+
+input[type=text],
+input[type=password] {
+  width: 100%;
+  padding: 12px 20px;
+  margin: 10px 0;
+  display: inline-block;
+  border: 1px solid #c0c0c0;
+  box-sizing: border-box;
+}
+
+button {
+  background: #28a8e0;
+  color: #fff;
+  padding: 15px 20px;
+  margin: 10px 0;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+button:hover {
+  opacity: 0.5;
+}
